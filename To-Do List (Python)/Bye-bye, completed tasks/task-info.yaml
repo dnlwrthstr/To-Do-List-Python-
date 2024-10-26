@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: todolist/todolist.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: tasks.db
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: todolist/todo.db
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: todo.db
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/105/stages/573/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sat, 26 Oct 2024 16:49:06 UTC"
+record: -1

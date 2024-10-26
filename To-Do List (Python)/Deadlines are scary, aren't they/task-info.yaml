@@ -1,0 +1,33 @@
+type: edu
+custom_name: "Deadlines are scary, aren't they?"
+files:
+  - name: todolist/todolist.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: todo.db
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: tasks.db
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: todolist/todo.db
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/105/stages/572/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 17 Oct 2024 20:37:26 UTC"
+record: 3

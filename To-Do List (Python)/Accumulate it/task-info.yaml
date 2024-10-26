@@ -1,0 +1,29 @@
+type: edu
+custom_name: Accumulate it!
+files:
+  - name: todolist/todolist.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: todolist/todo.db
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: todo.db
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/105/stages/571/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 14 Oct 2024 19:43:41 UTC"
+record: 2
